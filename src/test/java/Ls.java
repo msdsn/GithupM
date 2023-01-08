@@ -7,5 +7,6 @@ public class Ls {
         int b=8;
         b=10;
         int c= 16;
+        System.out.println("oldumu");
     }
 }
